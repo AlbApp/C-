@@ -1,0 +1,7 @@
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\bin\Debug\Home work 01.exe.config
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\bin\Debug\Home work 01.exe
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\bin\Debug\Home work 01.pdb
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\obj\Debug\Home work 01.csprojAssemblyReference.cache
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\obj\Debug\Home work 01.csproj.CoreCompileInputs.cache
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\obj\Debug\Home work 01.exe
+C:\Users\abc44\source\repos\C# start\sandbox\Lesson01\Home work 01\obj\Debug\Home work 01.pdb
